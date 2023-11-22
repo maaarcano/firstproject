@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main {
+    list-style-type: none;
+    text-decoration-line:none;
+    color: black;
+}
+ul {
+    list-style-type: none;
+}
+.portfolio {
+    display: flex;
+    justify-content: center;
+}
+.portfolio2 {
+    text-decoration-line: none;
+}
+.first {
+    display: flex;
+    justify-content: space-between;
+}
+.second {
+    display: flex;
+    justify-content: space-between;
+}
+.main {
+    display: flex;
+    justify-content: space-around;
+}
